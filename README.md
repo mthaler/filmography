@@ -1,2 +1,2 @@
 # filmography
-A visualization of some famous actors or actors that act in movies I have seens.
+A visualization of some famous actors or actors that act in movies I have seen.
