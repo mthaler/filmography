@@ -1,2 +1,2 @@
-# filmogrphraphy
-A visualization of some important actors (or actors I think they are important...)
+# filmography
+A visualization of some famous actors or actors that act in movies I have seens.
